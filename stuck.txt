@@ -1,0 +1,9 @@
+BACKEND
+1. REAST API based on NEST js
+2. MongoDB
+
+FRONTEND
+1. TypeScript + React Js
+2. Redux
+3. Next JS
+4. Work with audio files
